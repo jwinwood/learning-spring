@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dev/KotlinFlows" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/bcar-app-gateway" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/fts-location-resolution" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/hashcode2019" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/kotlin-koans" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
